@@ -1,20 +1,30 @@
-@media only screen and (max-width:860px) {
-    header {
-        display: flex;
-        flex-direction: column;
-    }
+header {
+    display: flex;
+    flex-direction: column;
+}
 
-    .left {
-        display: flex;
-        justify-content: center;
-    }
+.left {
+    display: flex;
+    justify-content: center;
+}
 
-    .mid {
-        display: flex;
-        justify-content: center;
-    }
+.mid {
+    display: flex;
+    justify-content: center;
+}
 
-    .right {
-        display: none;
-    }
+.mid li {
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.mid li a {
+    font-size: 1.4em;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+}
+
+.right {
+    display: none;
 }
