@@ -1,0 +1,19 @@
+/* body  */
+.container {
+    margin-top: 3em;
+    text-align: center;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    margin-left: 5em;
+    margin-right: 5em;
+    color: white;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+p {
+    font-size: 20px;
+}

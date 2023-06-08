@@ -1,0 +1,28 @@
+.container {
+    margin-top: 1em;
+    text-align: center;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    margin-left: 0em;
+    margin-right: 0em;
+    color: white;
+}
+
+h1 {
+    display: none;
+}
+
+.clip1 {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.clip2 {
+
+    display: none;
+}
+.cli{
+    width: 356px;
+}
