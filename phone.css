@@ -1,0 +1,20 @@
+@media only screen and (max-width:860px) {
+    header {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .left {
+        display: flex;
+        justify-content: center;
+    }
+
+    .mid {
+        display: flex;
+        justify-content: center;
+    }
+
+    .right {
+        display: none;
+    }
+}
